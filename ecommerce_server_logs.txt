@@ -1,0 +1,150 @@
+2025-08-14 08:00:00 [INFO] GET /checkout 201 137ms - User login successful
+2025-08-14 08:02:24 [INFO] GET /checkout 201 417ms - Cart updated
+2025-08-14 08:04:48 [INFO] DELETE /checkout 200 370ms - Inventory updated
+2025-08-14 08:07:12 [INFO] GET /products 204 1021ms - Cart updated
+2025-08-14 08:09:36 [INFO] DELETE /cart 201 301ms - User profile updated
+2025-08-14 08:12:00 [INFO] PUT /users/321 204 864ms - Product details fetched
+2025-08-14 08:14:24 [INFO] PUT /users/289 201 935ms - Product list retrieved
+2025-08-14 08:16:48 [INFO] DELETE /products 201 1157ms - Inventory updated
+2025-08-14 08:19:12 [ERROR] DELETE /cart 500 576ms - Unexpected server error
+2025-08-14 08:21:36 [INFO] DELETE /cart 200 3025ms - Inventory updated
+2025-08-14 08:24:00 [INFO] DELETE /users/455 201 2838ms - Inventory updated
+2025-08-14 08:26:24 [WARN] DELETE /checkout 400 3236ms - Missing required parameters
+2025-08-14 08:28:48 [INFO] POST /products 201 716ms - Product details fetched
+2025-08-14 08:31:12 [INFO] POST /checkout 201 855ms - User login successful
+2025-08-14 08:33:36 [INFO] POST /checkout 204 919ms - Product details fetched
+2025-08-14 08:36:00 [INFO] DELETE /checkout 200 851ms - User login successful
+2025-08-14 08:38:24 [INFO] GET /checkout 200 688ms - Product list retrieved
+2025-08-14 08:40:48 [INFO] GET /products 200 1335ms - Product details fetched
+2025-08-14 08:43:12 [INFO] PUT /products 200 205ms - Cart updated
+2025-08-14 08:45:36 [WARN] POST /cart 429 122ms - Invalid auth token
+2025-08-14 08:48:00 [INFO] PUT /cart 201 1045ms - Inventory updated
+2025-08-14 08:50:24 [INFO] POST /cart 201 723ms - User profile updated
+2025-08-14 08:52:48 [INFO] POST /products 200 147ms - Checkout completed
+2025-08-14 08:55:12 [INFO] POST /checkout 204 508ms - Order placed successfully
+2025-08-14 08:57:36 [INFO] PUT /products 200 1642ms - User registered
+2025-08-14 09:00:00 [INFO] POST /cart 204 728ms - User login successful
+2025-08-14 09:02:24 [INFO] GET /checkout 201 62ms - Cart updated
+2025-08-14 09:04:48 [INFO] DELETE /products 200 534ms - User profile updated
+2025-08-14 09:07:12 [INFO] DELETE /users/169 201 120ms - Product details fetched
+2025-08-14 09:09:36 [INFO] PUT /products 200 246ms - User login successful
+2025-08-14 09:12:00 [INFO] GET /cart 204 1751ms - Product list retrieved
+2025-08-14 09:14:24 [INFO] PUT /cart 204 1006ms - User registered
+2025-08-14 09:16:48 [INFO] DELETE /users/312 204 907ms - Product list retrieved
+2025-08-14 09:19:12 [WARN] POST /users/371 404 2849ms - Rate limit exceeded
+2025-08-14 09:21:36 [ERROR] POST /checkout 500 1369ms - Timeout contacting payment gateway
+2025-08-14 09:24:00 [INFO] GET /cart 201 316ms - Inventory updated
+2025-08-14 09:26:24 [INFO] GET /users/118 204 1077ms - Inventory updated
+2025-08-14 09:28:48 [INFO] POST /cart 200 590ms - Checkout completed
+2025-08-14 09:31:12 [WARN] DELETE /checkout 404 3007ms - Rate limit exceeded
+2025-08-14 09:33:36 [INFO] PUT /products 201 1024ms - User login successful
+2025-08-14 09:36:00 [WARN] PUT /users/404 400 395ms - Cart is empty
+2025-08-14 09:38:24 [INFO] GET /cart 204 1447ms - Product details fetched
+2025-08-14 09:40:48 [ERROR] POST /cart 500 1080ms - Unexpected server error
+2025-08-14 09:43:12 [ERROR] POST /checkout 504 1557ms - Failed to connect to DB
+2025-08-14 09:45:36 [INFO] GET /users/322 200 198ms - Cart updated
+2025-08-14 09:48:00 [INFO] DELETE /cart 201 675ms - User profile updated
+2025-08-14 09:50:24 [INFO] DELETE /products 200 518ms - Checkout completed
+2025-08-14 09:52:48 [ERROR] POST /cart 500 944ms - Payment processing error
+2025-08-14 09:55:12 [INFO] POST /checkout 201 2729ms - User login successful
+2025-08-14 09:57:36 [INFO] DELETE /cart 201 995ms - User registered
+2025-08-14 10:00:00 [INFO] PUT /cart 200 386ms - Product details fetched
+2025-08-14 10:02:24 [INFO] GET /users/321 204 1901ms - Product details fetched
+2025-08-14 10:04:48 [ERROR] POST /checkout 504 694ms - Payment processing error
+2025-08-14 10:07:12 [INFO] PUT /checkout 204 1563ms - User registered
+2025-08-14 10:09:36 [INFO] DELETE /users/133 204 431ms - User registered
+2025-08-14 10:12:00 [INFO] GET /checkout 201 1119ms - Product list retrieved
+2025-08-14 10:14:24 [INFO] POST /products 204 1967ms - Product details fetched
+2025-08-14 10:16:48 [WARN] DELETE /products 429 3202ms - Cart is empty
+2025-08-14 10:19:12 [WARN] PUT /users/156 404 1285ms - Product not found
+2025-08-14 10:21:36 [INFO] POST /cart 204 373ms - Cart updated
+2025-08-14 10:24:00 [INFO] PUT /products 204 1896ms - Inventory updated
+2025-08-14 10:26:24 [INFO] PUT /users/164 204 1051ms - Cart updated
+2025-08-14 10:28:48 [INFO] POST /products 204 524ms - User login successful
+2025-08-14 10:31:12 [WARN] POST /cart 404 1271ms - Cart is empty
+2025-08-14 10:33:36 [INFO] DELETE /checkout 204 3043ms - Inventory updated
+2025-08-14 10:36:00 [INFO] POST /products 200 1959ms - Order placed successfully
+2025-08-14 10:38:24 [ERROR] POST /checkout 502 1162ms - Failed to connect to DB
+2025-08-14 10:40:48 [INFO] DELETE /products 204 339ms - User registered
+2025-08-14 10:43:12 [INFO] PUT /cart 201 4975ms - Order placed successfully
+2025-08-14 10:45:36 [WARN] PUT /checkout 404 192ms - Product not found
+2025-08-14 10:48:00 [INFO] PUT /checkout 201 474ms - Product list retrieved
+2025-08-14 10:50:24 [INFO] GET /cart 204 1960ms - User registered
+2025-08-14 10:52:48 [INFO] POST /products 200 1587ms - Product list retrieved
+2025-08-14 10:55:12 [INFO] PUT /products 201 1070ms - Product list retrieved
+2025-08-14 10:57:36 [INFO] DELETE /checkout 204 1039ms - User profile updated
+2025-08-14 11:00:00 [INFO] POST /products 204 1100ms - User profile updated
+2025-08-14 11:02:24 [INFO] POST /users/438 201 804ms - Cart updated
+2025-08-14 11:04:48 [INFO] DELETE /users/141 201 742ms - User profile updated
+2025-08-14 11:07:12 [WARN] GET /products 429 1424ms - Cart is empty
+2025-08-14 11:09:36 [INFO] GET /cart 204 1264ms - Product details fetched
+2025-08-14 11:12:00 [INFO] PUT /products 201 222ms - Order placed successfully
+2025-08-14 11:14:24 [ERROR] POST /users/213 500 573ms - Unexpected server error
+2025-08-14 11:16:48 [INFO] GET /products 201 145ms - Checkout completed
+2025-08-14 11:19:12 [INFO] DELETE /products 201 1537ms - Product details fetched
+2025-08-14 11:21:36 [INFO] GET /users/32 204 556ms - Product list retrieved
+2025-08-14 11:24:00 [ERROR] PUT /checkout 503 627ms - Unexpected server error
+2025-08-14 11:26:24 [INFO] GET /checkout 204 1649ms - User registered
+2025-08-14 11:28:48 [INFO] PUT /cart 201 1233ms - Checkout completed
+2025-08-14 11:31:12 [INFO] PUT /checkout 204 890ms - User registered
+2025-08-14 11:33:36 [INFO] PUT /cart 201 459ms - User profile updated
+2025-08-14 11:36:00 [INFO] POST /checkout 204 1829ms - Product list retrieved
+2025-08-14 11:38:24 [INFO] DELETE /cart 200 381ms - Inventory updated
+2025-08-14 11:40:48 [INFO] DELETE /checkout 204 1164ms - User registered
+2025-08-14 11:43:12 [INFO] GET /users/119 200 1560ms - User registered
+2025-08-14 11:45:36 [WARN] PUT /cart 400 438ms - Cart is empty
+2025-08-14 11:48:00 [WARN] POST /cart 404 794ms - Rate limit exceeded
+2025-08-14 11:50:24 [WARN] POST /cart 429 1283ms - Product not found
+2025-08-14 11:52:48 [INFO] GET /users/484 204 1549ms - Order placed successfully
+2025-08-14 11:55:12 [INFO] DELETE /users/279 204 3633ms - Inventory updated
+2025-08-14 11:57:36 [INFO] GET /users/389 201 1211ms - User login successful
+2025-08-14 12:00:00 [INFO] PUT /users/282 200 1200ms - Product list retrieved
+2025-08-14 12:02:24 [INFO] POST /users/30 200 1717ms - Checkout completed
+2025-08-14 12:04:48 [INFO] DELETE /users/218 200 1026ms - Product details fetched
+2025-08-14 12:07:12 [INFO] PUT /cart 201 973ms - Product list retrieved
+2025-08-14 12:09:36 [INFO] DELETE /checkout 201 1794ms - Order placed successfully
+2025-08-14 12:12:00 [INFO] GET /users/254 204 1128ms - Inventory updated
+2025-08-14 12:14:24 [ERROR] POST /users/334 500 2987ms - Null pointer exception in checkout service
+2025-08-14 12:16:48 [INFO] DELETE /checkout 201 1496ms - Checkout completed
+2025-08-14 12:19:12 [INFO] POST /users/306 201 1723ms - Order placed successfully
+2025-08-14 12:21:36 [INFO] GET /users/196 200 843ms - Inventory updated
+2025-08-14 12:24:00 [INFO] DELETE /checkout 201 1664ms - User profile updated
+2025-08-14 12:26:24 [WARN] DELETE /cart 429 1652ms - Rate limit exceeded
+2025-08-14 12:28:48 [WARN] POST /users/97 404 100ms - Missing required parameters
+2025-08-14 12:31:12 [INFO] GET /checkout 204 590ms - User profile updated
+2025-08-14 12:33:36 [INFO] DELETE /products 201 989ms - Cart updated
+2025-08-14 12:36:00 [ERROR] GET /users/340 503 1762ms - Failed to connect to DB
+2025-08-14 12:38:24 [INFO] GET /users/356 200 1422ms - Product details fetched
+2025-08-14 12:40:48 [INFO] PUT /products 200 1389ms - User login successful
+2025-08-14 12:43:12 [INFO] GET /users/273 204 1316ms - Order placed successfully
+2025-08-14 12:45:36 [INFO] POST /cart 201 1892ms - User login successful
+2025-08-14 12:48:00 [WARN] DELETE /users/180 400 1715ms - Rate limit exceeded
+2025-08-14 12:50:24 [INFO] POST /products 201 633ms - User login successful
+2025-08-14 12:52:48 [INFO] PUT /users/100 200 1766ms - Cart updated
+2025-08-14 12:55:12 [ERROR] PUT /cart 502 439ms - Database connection timeout
+2025-08-14 12:57:36 [INFO] POST /users/212 201 1592ms - Product details fetched
+2025-08-14 13:00:00 [WARN] PUT /products 429 1904ms - Rate limit exceeded
+2025-08-14 13:02:24 [ERROR] PUT /products 502 83ms - Database connection timeout
+2025-08-14 13:04:48 [INFO] PUT /products 200 1579ms - Checkout completed
+2025-08-14 13:07:12 [WARN] PUT /checkout 400 487ms - Missing required parameters
+2025-08-14 13:09:36 [ERROR] POST /products 502 372ms - Null pointer exception in checkout service
+2025-08-14 13:12:00 [INFO] POST /cart 200 1005ms - Order placed successfully
+2025-08-14 13:14:24 [ERROR] PUT /checkout 503 643ms - Service unavailable
+2025-08-14 13:16:48 [INFO] POST /checkout 201 1279ms - Cart updated
+2025-08-14 13:19:12 [INFO] PUT /users/117 200 546ms - User profile updated
+2025-08-14 13:21:36 [INFO] PUT /checkout 201 846ms - Inventory updated
+2025-08-14 13:24:00 [INFO] DELETE /checkout 200 205ms - Order placed successfully
+2025-08-14 13:26:24 [ERROR] POST /users/425 503 1080ms - Payment processing error
+2025-08-14 13:28:48 [INFO] GET /products 201 1409ms - Checkout completed
+2025-08-14 13:31:12 [INFO] GET /products 201 1045ms - Cart updated
+2025-08-14 13:33:36 [INFO] GET /users/25 204 1949ms - Checkout completed
+2025-08-14 13:36:00 [INFO] GET /cart 200 845ms - Checkout completed
+2025-08-14 13:38:24 [INFO] PUT /products 201 1524ms - User profile updated
+2025-08-14 13:40:48 [INFO] GET /checkout 204 3832ms - Order placed successfully
+2025-08-14 13:43:12 [INFO] PUT /users/362 201 126ms - Order placed successfully
+2025-08-14 13:45:36 [INFO] DELETE /cart 201 805ms - User profile updated
+2025-08-14 13:48:00 [INFO] GET /products 201 1263ms - User registered
+2025-08-14 13:50:24 [ERROR] GET /products 503 3831ms - Payment processing error
+2025-08-14 13:52:48 [INFO] PUT /cart 201 360ms - Inventory updated
+2025-08-14 13:55:12 [ERROR] POST /cart 503 547ms - Service unavailable
+2025-08-14 13:57:36 [INFO] DELETE /cart 200 1505ms - Cart updated
